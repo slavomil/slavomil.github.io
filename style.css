@@ -1,0 +1,35 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.ribbon {
+    height: 20px;
+    background-color: #B10DC9;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+footer {
+    background-color: #FFDC00;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Chewy', cursive;
+}
