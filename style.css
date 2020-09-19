@@ -33,14 +33,9 @@ h3 {
     font-family: 'Chewy', cursive;
 }
 
-.grid {
- display: grid;
- grid-template-rows: 25px 200px 25px 25px 200px 25px 25px 200px 25px;
- grid-template-columns: 200px 200px ;
- border: 1px solid black;
+.flexbox {
+ display: flex;
+ flex-wrap: wrap
 }
 
-img {
-height: 170px;
-width: 170px;
-}
+
