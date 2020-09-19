@@ -20,7 +20,6 @@ th {
 
 td {
     border: 1px solid black;
-    padding: 4px;
 }
 
 footer {
@@ -38,4 +37,7 @@ h3 {
  flex-wrap: wrap
 }
 
-
+footer + ul {
+ margin-bottom: 5px;
+ lineheight: 1.5;
+}
