@@ -35,8 +35,8 @@ h3 {
 
 .grid {
  display: grid;
- grid-template-rows: 25px 200px 25px 25px 200px 25px;
- grid-template-columns: 200px 200px 200px;
+ grid-template-rows: 25px 200px 25px 25px 200px 25px 25px 200px 25px;
+ grid-template-columns: 200px 200px ;
  border: 1px solid black;
 }
 
