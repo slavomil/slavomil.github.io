@@ -39,3 +39,8 @@ h3 {
  grid-template-columns: 200px 200px 200px;
  border: 1px solid black;
 }
+
+img {
+height: 170px;
+width: 170px;
+}
