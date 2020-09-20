@@ -37,7 +37,7 @@ h3 {
  flex-wrap: wrap
 }
 
-footer + ul {
- margin-bottom: 5px;
+.contacts {
+ padding-bottom: 15px;
  lineheight: 1.5;
 }
