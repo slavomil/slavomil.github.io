@@ -41,3 +41,7 @@ h3 {
  padding-bottom: 15px;
  lineheight: 1.5;
 }
+
+figure::hover {
+transform: scale(1.2); 
+}
