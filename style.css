@@ -45,3 +45,7 @@ h3 {
 figure:hover {
 transform: scale(1.2); 
 }
+
+a {
+ text-decoration: none;
+}
