@@ -43,5 +43,5 @@ h3 {
 }
 
 .hovhov::hover {
-transform: scale(2.0); 
+transform: scale(2); 
 }
