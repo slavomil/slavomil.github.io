@@ -42,6 +42,6 @@ h3 {
  lineheight: 1.5;
 }
 
-.hovhov:hover {
+figure:hover {
 transform: scale(1.2); 
 }
