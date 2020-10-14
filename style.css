@@ -49,3 +49,8 @@ transform: scale(1.2);
 a {
  text-decoration: none;
 }
+
+.ghtb {
+ width: 100%;
+ oferflow: auto;
+}
