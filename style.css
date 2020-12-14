@@ -2,6 +2,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 0 10px;
+    background-color: white;
     font-family: 'Josefin Sans', sans-serif;
 }
 
